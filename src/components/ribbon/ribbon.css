@@ -1,0 +1,12 @@
+
+.ribbon {
+    font-size: 18px;
+    display: inline-block;
+    position: relative;
+    
+    color: black;
+    text-align: center;
+    padding: 6px 24px 6px 40px;
+    margin: 2em auto 3em;
+    margin: 0px 0px 20px -40px
+}
